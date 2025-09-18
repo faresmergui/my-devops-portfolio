@@ -119,10 +119,9 @@
 - [ ] Docker Certified Associate
 
 ### 📚 **Current Learning Focus**
-- 🔍 Service Mesh (Istio/Linkerd)
+- 🔍 CKA
+- ☁️ OpenStack private cloud
 - 🔐 DevSecOps practices
-- 📊 Advanced observability (OpenTelemetry)
-- ☁️ Multi-cloud strategies
 
 ---
 

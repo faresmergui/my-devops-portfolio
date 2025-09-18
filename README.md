@@ -34,6 +34,7 @@
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 </div>
 
@@ -56,6 +57,7 @@
 | **[🔗 K8s Monitoring Stack](https://github.com/username/k8s-monitoring-stack)** | Complete monitoring solution for Kubernetes | `Prometheus` `Grafana` `AlertManager` | Custom metrics, alerting rules |
 | **[🔗 K8s GitOps with ArgoCD](https://github.com/username/k8s-gitops-argocd)** | GitOps workflow implementation | `ArgoCD` `Helm` `Kustomize` | Automated deployments, rollbacks |
 | **[🔗 K8s Ingress & Traffic Management](https://github.com/username/k8s-ingress-traffic)** | Advanced ingress configuration and traffic routing | `NGINX Ingress` `Cert-Manager` `Istio` | TLS automation, canary deployments |
+| **[🔗 ArgoCD GitOps Pipeline](https://github.com/username/argocd-gitops-pipeline)** | GitOps continuous delivery with ArgoCD | `ArgoCD` `Ansible` `Kubernetes` `GitLab` | Declarative deployments, auto-sync |
 
 ---
 
